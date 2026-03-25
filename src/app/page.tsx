@@ -157,6 +157,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       carouselMode="auto"
       uniformGridCustomHeightClasses="min-h-95 2xl:min-h-105"
+      animationType="blur-reveal"
       testimonials={[
         {
           id: "1",
